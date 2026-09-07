@@ -1,0 +1,6 @@
+{
+  "name": "MediFlow - Medical Inventory & Order Platform",
+  "description": "Full-stack medical inventory and order management platform with 4 RBAC tiers, real-time batch and cold-chain tracking, Redis caching telemetry, and concurrent overselling prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
